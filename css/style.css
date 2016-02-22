@@ -2,7 +2,7 @@
 
 
 .header-visual{
-	background: url('../07_Story_Tenefrancia_WEB.jpg') no-repeat center center fixed;
+	background: url('img/07_Story_Tenefrancia_WEB.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -40,18 +40,21 @@
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width:640px) { 
+	background: url('img/07_Story_Tenefrancia_WEB.jpg') no-repeat center center fixed;
 
 	
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width:960px) { 
+		background: url('img/07_Story_Tenefrancia_WEB.jpg') no-repeat center center fixed;
+
  }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width:960px) {
 .header-visual{
-	background: url('../img/07_Story_Tenefrancia_WEB.jpg') no-repeat center center fixed;
+	background: url('img/07_Story_Tenefrancia_WEB.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
